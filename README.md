@@ -1,8 +1,9 @@
 # vscode-js-notebooks 📚
 
-JavaScript Notebooks 📚 Renderer for the proposed [VSCode Notebook API](https://code.visualstudio.com/api/extension-guides/notebook)
+JavaScript Notebooks 📚 extension for the proposed [VSCode Notebook API](https://code.visualstudio.com/api/extension-guides/notebook)
 
-...
+![JS Notebook 📓 Code View](https://github.com/RandomFractals/vscode-js-notebooks/blob/master/images/hello-world-js-notebook.png?raw=true 
+ "JS Notebook 📓 Code View")
 
 # Features
 
