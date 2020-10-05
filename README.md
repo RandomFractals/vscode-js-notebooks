@@ -8,8 +8,17 @@
 
 JavaScript Notebooks 📚 extension for the proposed [VSCode Notebook API](https://code.visualstudio.com/api/extension-guides/notebook)
 
+This repo is a work in progress ...
+
+However, you can try the following for now ;)
+
+## JS Notebook Code View with [JS Notebook 📓 Inspector 🕵️](https://marketplace.visualstudio.com/items?itemName=RandomFractalsInc.js-notebook-inspector)
 ![JS Notebook 📓 Code View](https://github.com/RandomFractals/vscode-js-notebooks/blob/main/images/hello-world-js-notebook.png?raw=true 
  "JS Notebook 📓 Code View")
+
+## OJS Notebook Code View with [Observable JS](https://marketplace.visualstudio.com/items?itemName=GordonSmith.observable-js)
+![OJS Notebook 📓 Code View](https://github.com/RandomFractals/vscode-js-notebooks/blob/main/images/observing-vega-signal-ojs-notebook.png?raw=true 
+ "OJS Notebook 📓 Code View")
 
 # Features
 
