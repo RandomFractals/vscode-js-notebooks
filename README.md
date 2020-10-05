@@ -1,5 +1,11 @@
 # vscode-js-notebooks 📚
 
+[![Build Status](https://travis-ci.org/RandomFractals/vscode-js-notebooks.svg?branch=master)](https://travis-ci.com/RandomFractals/vscode-js-notebooks)
+[![Apache-2.0 License](https://img.shields.io/badge/license-Apache2-orange.svg?color=green)](http://opensource.org/licenses/Apache-2.0)
+<a href='https://ko-fi.com/dataPixy' target='_blank' title='support: https://ko-fi.com/dataPixy'>
+  <img height='24' style='border:0px;height:20px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=2' alt='https://ko-fi.com/dataPixy' />
+</a>
+
 JavaScript Notebooks 📚 extension for the proposed [VSCode Notebook API](https://code.visualstudio.com/api/extension-guides/notebook)
 
 ![JS Notebook 📓 Code View](https://github.com/RandomFractals/vscode-js-notebooks/blob/main/images/hello-world-js-notebook.png?raw=true 
